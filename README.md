@@ -178,3 +178,7 @@ Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (wil
 Any other authorship/credits can be seen through the commits.
 
 Should any be missing kindly let us know at [Mizuhara Support](https://t.me/chizurusupport) or simply submit a pull request on the readme.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/-Zekkou-Kamen-)
+
+
